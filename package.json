@@ -1,0 +1,25 @@
+{
+  "name": "fortnite-shop-discord-bot",
+  "version": "1.0.0",
+  "description": "A bot for discord that every time the fortnite shop is updated sends an embed with the objects added and the prices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goblinkingdev/fortnite-shop-discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goblinkingdev/fortnite-shop-discord-bot/issues"
+  },
+  "homepage": "https://github.com/goblinkingdev/fortnite-shop-discord-bot#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
+}
